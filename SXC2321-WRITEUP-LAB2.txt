@@ -1,0 +1,32 @@
+Name: SAMNANG CHAY
+Id: 1000732321
+Login id: sxc2321
+Summer '17
+Lab 02
+
+The submittal zipped file “sxc2321.zip” contains the following:
+
+1. This writeup: “SXC2321-WRITEUP-LAB2.txt”
+2. Java file: “Bully.java”
+
+Please note: Prior to compiling, I have installed jdk1.8.0_141 and jre1.8.0_141
+
+THE WRITEUP
+
+Instruction:
+1. How to compile:
+In MS windows, using command prompt, and getting into folder where "Bully.java" is stored. Then, type: "C:\Program Files\java\jdk1.8.0_141\bin\javac" Bully.java.
+Once classes file are created, type: java Bully. The first process window should pop up. Then repeat to open another 4 windows by using the same command: java Bully.
+
+2. Run the program
+Now, the 5 windows should be opened. To start the program, click on "Start Election" button on any process per Bully algorithm. Then, observe the message being displayed.
+The highest process should declare itself as the Coordinator, and broadcast a live message to all other processes. Each process will pick up a random time delay. 
+To shutdown the Coordinator process, click on "Crash" button. At this point, process(es) that know the coordinator not responding should initiate the Election. 
+At last each process will find the new Coordinator and this new Coodinator will broadcast live message. 
+To bring back up the crashed process, click on "Resume" button. Once it is resumed, it should start the election process again. 
+Note: "Clear" button can be used to clear the logs message.
+
+Refereces: 
+"Reading from and Writing to a Socket." Reading from and Writing to a Socket (The Java™ Tutorials > Custom Networking > All About Sockets). N.p., n.d. Web. 04 Aug. 2017.
+CS 551: Synchronization, Bully Election Algorithm Example. N.p., n.d. Web. 04 Aug. 2017.
+Andrew, Tanenbaum. "3.3.1. The Bully Algorithm - Distributed operating systems." N.p., n.d. Web. 04 Aug. 2017.
