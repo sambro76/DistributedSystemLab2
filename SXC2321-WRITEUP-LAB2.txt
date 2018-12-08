@@ -1,13 +1,11 @@
 Name: SAMNANG CHAY
-Id: 1000732321
-Login id: sxc2321
-Summer '17
+Id: 2321
 Lab 02
 
-The submittal zipped file “sxc2321.zip” contains the following:
+The submittal zipped file â€œsxc2321.zipâ€ contains the following:
 
-1. This writeup: “SXC2321-WRITEUP-LAB2.txt”
-2. Java file: “Bully.java”
+1. This writeup: â€œSXC2321-WRITEUP-LAB2.txtâ€
+2. Java file: â€œBully.javaâ€
 
 Please note: Prior to compiling, I have installed jdk1.8.0_141 and jre1.8.0_141
 
@@ -27,6 +25,6 @@ To bring back up the crashed process, click on "Resume" button. Once it is resum
 Note: "Clear" button can be used to clear the logs message.
 
 Refereces: 
-"Reading from and Writing to a Socket." Reading from and Writing to a Socket (The Java™ Tutorials > Custom Networking > All About Sockets). N.p., n.d. Web. 04 Aug. 2017.
+"Reading from and Writing to a Socket." Reading from and Writing to a Socket (The Javaâ„¢ Tutorials > Custom Networking > All About Sockets). N.p., n.d. Web. 04 Aug. 2017.
 CS 551: Synchronization, Bully Election Algorithm Example. N.p., n.d. Web. 04 Aug. 2017.
 Andrew, Tanenbaum. "3.3.1. The Bully Algorithm - Distributed operating systems." N.p., n.d. Web. 04 Aug. 2017.
